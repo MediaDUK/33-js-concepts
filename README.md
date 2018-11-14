@@ -940,12 +940,16 @@ All the translations for this repo will be listed below:
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 34. Front End Performance
+## 34. Performance
 
 ### Articles
 
 - 📜 [Front End Performance Checklist 2018 — Vitaly Friedman](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
+- 📜 [Reduce JavaScript Payloads with Tree Shaking — Jeremy Wagner](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/)
+- 📜 [Reduce JavaScript Payloads with Code Splitting — Jeremy Wagner & Addy Osmani](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/code-splitting/)
 
 ### Tools / Libs
 
 - 🧰 [List of Links from frontendmasters.com ](https://frontendmasters.com/books/front-end-handbook/2018/tools/perf.html)
+- 🧰 [PageSpeed Insights/](https://developers.google.com/speed/pagespeed/insights/)
+- 🧰 [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
